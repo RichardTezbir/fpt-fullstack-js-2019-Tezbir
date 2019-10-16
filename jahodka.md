@@ -11,6 +11,15 @@ achojj ta co more hej
 
 chcel by som tu nieco viac napisat
 aj totot hej
+takze takto
+
+function () {
+    co robi uplne nic :D
+}
+
+function () {
+    co robi straaasne vela :D 
+}
 
 jahodnutelka
 
