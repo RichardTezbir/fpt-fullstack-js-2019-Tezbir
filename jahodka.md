@@ -8,7 +8,4 @@ hdsbhdsrnjrtfrkjrdgse
  jahodecka
 
 
-jahodnutelka
-
-
-ty jedna jahodka jahodkovaaaaaa
+jahodka je super, skoda ze rastie len na jar.
