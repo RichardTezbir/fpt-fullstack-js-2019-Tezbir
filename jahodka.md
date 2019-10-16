@@ -19,3 +19,5 @@ jahodnutelka
 
 
 ty jedna jahodka jahodkovaaaaaa
+
+KONIEC JAHODKY
