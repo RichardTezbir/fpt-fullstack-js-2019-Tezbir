@@ -1,10 +1,10 @@
+# Dokument o Jahodke.
 by SKOR ahoj
 gawegawgawg
 gawgawg
 gawgawg
 awgawgrsbhdenjtnj
 hdsbhdsrnjrtfrkjrdgse
-gfmtfjegsg
  jahodecka
 
 
