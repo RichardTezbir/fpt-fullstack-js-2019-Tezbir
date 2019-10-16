@@ -1,7 +1,7 @@
 # Dokument o Jahodke.
-by SKOR ahoj
+by SKOR: ahoj
 
-
+PULL = FETCH + MERGE
 
 Jahodka je super, skoda ze rastie len na jar.
 
@@ -35,8 +35,7 @@ function () {
 
 jahodnutelka
 
-
-ty jedna jahodka jahodkovaaaaaa
+Toto bolo dopisane pod vetvou SKorDev.
 
 KONIEC JAHODKY
 
