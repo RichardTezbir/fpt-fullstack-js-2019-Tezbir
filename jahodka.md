@@ -5,11 +5,20 @@ by SKOR ahoj
 
 Jahodka je super, skoda ze rastie len na jar.
 
-Chcel by som spravit istu zmenu, no inu nez inaksiu
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
+chcel by som tu nieco viac napisat
 
 
-
-achojj ta co more hej
+c
 
 
 chcel by som tu nieco viac napisat
