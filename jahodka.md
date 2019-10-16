@@ -35,5 +35,6 @@ function () {
 
 jahodnutelka
 
+Toto bolo dopisane pod vetvou SKorDev.
 
 KONIEC JAHODKY
