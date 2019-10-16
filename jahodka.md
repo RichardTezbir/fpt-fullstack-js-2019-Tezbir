@@ -2,9 +2,12 @@
 by SKOR ahoj
 
 
-muehehe chcel by som spravit istu zmenu, no inu nez inaksiu
 
-////////////////////// mnuehehe
+Jahodka je super, skoda ze rastie len na jar.
+
+Chcel by som spravit istu zmenu, no inu nez inaksiu
+
+
 
 achojj ta co more hej
 
