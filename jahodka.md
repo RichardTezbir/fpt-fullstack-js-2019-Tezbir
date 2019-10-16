@@ -1,12 +1,13 @@
 by SKOR ahoj
-gawegawgawg
-gawgawg
-gawgawg
-awgawgrsbhdenjtnj
-hdsbhdsrnjrtfrkjrdgse
-gfmtfjegsg
+
+
+muehehe chcel by som spravit istu zmenu, no inu nez inaksiu
+
+
  jahodecka
 
+
+aj totot hej
 
 jahodnutelka
 
