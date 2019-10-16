@@ -39,3 +39,6 @@ jahodnutelka
 ty jedna jahodka jahodkovaaaaaa
 
 KONIEC JAHODKY
+
+
+nie je koniec jahodky, bo az tu je koniec jahodky juhuuu
