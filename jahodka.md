@@ -19,4 +19,3 @@ jahodnutelka
 
 
 ty jedna jahodka jahodkovaaaaaa
->>>>>>> b9a52ead352e7e9ea669d6f019bf4b57a1e82a1e
