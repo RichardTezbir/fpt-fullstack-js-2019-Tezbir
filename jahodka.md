@@ -5,21 +5,6 @@ PULL = FETCH + MERGE
 
 Jahodka je super, skoda ze rastie len na jar.
 
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-
-
-c
-
 
 chcel by som tu nieco viac napisat
 aj totot hej
@@ -37,7 +22,9 @@ jahodnutelka
 
 Toto bolo dopisane pod vetvou SKorDev.
 
-KONIEC JAHODKY
+POVODNY KONIEC JAHODKY
 
 
-nie je koniec jahodky, bo az tu je koniec jahodky juhuuu
+Najsamnovsi koniec bude tu.
+
+
