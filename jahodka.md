@@ -5,23 +5,23 @@ PULL = FETCH + MERGE
 
 Jahodka je super, skoda ze rastie len na jar.
 
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
-chcel by som tu nieco viac napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
+chcel by som tu nieco menej napisat
 
 
 c
 
 
-chcel by som tu nieco viac napisat
+chcel by som tu nieco menej napisat
 aj totot hej
 takze takto
 
@@ -36,6 +36,8 @@ function () {
 jahodnutelka
 
 Toto bolo dopisane pod vetvou SKorDev.
+
+Dalsie dopisane v SKorDev.
 
 KONIEC JAHODKY
 
