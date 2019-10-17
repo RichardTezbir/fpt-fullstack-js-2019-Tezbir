@@ -18,8 +18,6 @@ chcel by som tu nieco menej napisat
 chcel by som tu nieco menej napisat
 
 
-c
-
 
 chcel by som tu nieco menej napisat
 aj totot hej
@@ -37,9 +35,13 @@ jahodnutelka
 
 Toto bolo dopisane pod vetvou SKorDev.
 
+
 Dalsie dopisane v SKorDev.
 
-KONIEC JAHODKY
+
+POVODNY KONIEC JAHODKY
 
 
-nie je koniec jahodky, bo az tu je koniec jahodky juhuuu
+Najsamnovsi koniec bude tu.
+
+
